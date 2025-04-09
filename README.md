@@ -18,21 +18,6 @@ This calculator is built in C, using **stacks** to evaluate **infix mathematical
 - Compiler: GCC
 - Platform: Command-line
 
-## How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/simple-calculator-c.git
-   ```
-2. Compile the code:
-   ```bash
-   gcc calculator.c -o calculator
-   ```
-3. Run the program:
-   ```bash
-   ./calculator
-   ```
-4. Input an expression like `(3+5)*2`
-
 ## Sample Input/Output
 ```
 Input: (3+5)*2
